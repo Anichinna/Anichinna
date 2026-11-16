@@ -46,6 +46,7 @@ AI_LAB = {
 }
 ```
 
+
 ## `04 // GITHUB_ANALYTICS`
 
 <div align="center">
@@ -54,9 +55,12 @@ AI_LAB = {
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anichinna&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF88&text_color=FFFFFF"/>
 
+<br/>
+
 <img width="95%" src="https://streak-stats.demolab.com?user=Anichinna&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00D9FF&currStreakLabel=00FF88"/>
 
 </div>
+
 
 ## `05 // CONTRIBUTION_ACTIVITY`
 
