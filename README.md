@@ -1,294 +1,185 @@
-<!--
-  NEON AI DEVELOPER COMMAND CENTER
-  GitHub Profile README
-
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="./neon-ai-command-center.png" width="100%" alt="Chinnannan G - Neon AI Developer Command Center" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:00C46A,100:7B2FFF&height=230&section=header&text=CHINNANAN.G&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=//%20AI%20DEVELOPER%20COMMAND%20CENTER&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+
+<a href="https://github.com/Anichinna">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=GENERATIVE+AI+%7C+SOFTWARE+ENGINEER+%7C+AI+AUTOMATION;%5B+BUILD.+AUTOMATE.+INNOVATE.+%5D" alt="Typing SVG" />
+</a>
 
 </div>
--->
-
-
-<!-- ===================================================== -->
-<!-- CHINNANNAN G - CYBERPUNK AI DEVELOPER COMMAND CENTER -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:001a16,50:003b30,100:00ff88&text=CHINNANNAN.G&fontColor=ffffff&fontSize=55&fontAlignY=45&animation=fadeIn&stroke=00ff88&strokeWidth=2" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=750&lines=GENERATIVE+AI+%7C+SOFTWARE+ENGINEER;AI+AUTOMATION+%7C+PYTHON+DEVELOPER;BUILD.+AUTOMATE.+INNOVATE.;WELCOME+TO+MY+DIGITAL+UNIVERSE." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/ANICHINNA%40github-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/AI_DEVELOPER-COMMAND_CENTER-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black"/>
+```bash
+> Initializing Developer Environment...      ✔
+> Access Granted : Anichinna                 ✔
+> Building AI-Powered Solutions...           ✔
+> Exploring Generative AI & Automation...    ✔
+> Welcome to My Digital Universe...          ✔
+```
 
-</div>
-
----
-
-<!-- SYSTEM IDENTITY + ABOUT ME -->
-
-<table width="100%">
-<tr>
-<td width="48%" valign="top">
-
-<h3>🟢 &gt; SYSTEM_IDENTITY</h3>
+<!-- ===================== SYSTEM IDENTITY ===================== -->
+## 🖥️ `>SYSTEM_IDENTITY`
 
 ```bash
 root@anichinna:~$ whoami
 
-NAME        : CHINNANNAN G
-ROLE        : SOFTWARE ENGINEER
-SPECIALITY  : GENERATIVE AI & AI SOLUTIONS
-
-LANGUAGES   : PYTHON | SQL | JAVASCRIPT
-
-MISSION     : BUILD. AUTOMATE. INNOVATE.
-
-STATUS      : SYSTEM ONLINE
+  NAME        :   CHINNANAN G
+  ROLE        :   SOFTWARE ENGINEER
+  SPECIALITY  :   GENERATIVE AI & AI SOLUTIONS
+  LANGUAGES   :   PYTHON | SQL | JAVASCRIPT
+  MISSION     :   BUILD. AUTOMATE. INNOVATE.
+  STATUS      :   SYSTEM ONLINE 🟢
 ```
 
-</td>
-<td width="52%" valign="top">
+<!-- ===================== ABOUT ME ===================== -->
+## 👤 `>ABOUT_ME`
 
-<h3>🟢 &gt; ABOUT_ME</h3>
+> Software Engineer passionate about developing intelligent applications and exploring the possibilities of Generative AI.
 
-```yaml
-name: Chinnannan G
+- ✅ AI-Powered Application Development
+- ✅ Python & Web Application Development
+- ✅ Data Science & Machine Learning
+- ✅ Prompt Engineering & AI Automation
+- ✅ Continuous Learning & Innovation
 
-role: Software Engineer
-
-passion:
-  - Generative AI
-  - AI-Powered Applications
-  - Python Development
-  - Data Science & ML
-  - Prompt Engineering
-  - AI Automation
-
-mindset: Continuous Learning
-mission: Build Intelligent Solutions
-```
-
-**Core Objectives**
-
-- ☑ AI-Powered Application Development
-- ☑ Python & Web Application Development
-- ☑ Data Science & Machine Learning
-- ☑ Prompt Engineering & AI Automation
-- ☑ Continuous Learning & Innovation
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- TECH STACK -->
-
-<h3>⚡ &gt; TECH_STACK</h3>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-**LANGUAGES & WEB**
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql&theme=dark" />
-
-</td>
-<td width="50%" align="center">
-
-**FRAMEWORKS & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=react,django,flask,git,github,vscode&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-**AI / DATA SCIENCE / AUTOMATION**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- AI LAB -->
-
-<h3>🧪 &gt; AI_LAB // INTELLIGENCE_SYSTEMS</h3>
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/GENERATIVE_AI-00FF88?style=for-the-badge&logo=openai&logoColor=black"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-BC4BFF?style=for-the-badge&logo=probot&logoColor=white"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/AI_AUTOMATION-00D9FF?style=for-the-badge&logo=zapier&logoColor=black"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-BC4BFF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/DATA_SCIENCE-00FF88?style=for-the-badge&logo=pandas&logoColor=black"/>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/PYTHON_APPS-00D9FF?style=for-the-badge&logo=python&logoColor=black"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- GITHUB ANALYTICS -->
-
-<h3>📊 &gt; GITHUB_ANALYTICS</h3>
+<!-- ===================== TECH STACK ===================== -->
+## ⚙️ `>TECH_STACK`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anichinna&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050B0A&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&rank_icon=github" />
+**Languages & Web**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anichinna&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050B0A&title_color=00FF88&text_color=FFFFFF" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="languages"/>
 
-<br/><br/>
+**Frameworks & Tools**
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Anichinna&theme=dark&hide_border=true&background=050B0A&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=888888" />
+<img src="https://skillicons.dev/icons?i=react,django,mysql,git,github,vscode&theme=dark" alt="tools"/>
 
 </div>
 
----
-
-<!-- CONTRIBUTION ACTIVITY -->
-
-<h3>🟢 &gt; CONTRIBUTION_ACTIVITY</h3>
+<!-- ===================== AI LAB ===================== -->
+## 🧪 `>AI_LAB // INTELLIGENCE SYSTEMS`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anichinna&bg_color=050B0A&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20MONITOR" width="100%"/>
-
-</div>
-
----
-
-<!-- PROJECT ARCHIVE -->
-
-<h3>🚀 &gt; PROJECT_ARCHIVE // DEPLOYED_SYSTEMS</h3>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>🛒 E-commerce Website</h3>
-
-An e-commerce web application developed using:
-
-- HTML & CSS
-- JavaScript
-- Bootstrap
-- MySQL
-- Django
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧮 Calculator Application</h3>
-
-A calculator web application designed to perform mathematical operations easily.
-
-**Features**
-
-- Arithmetic Operations
-- Interactive User Interface
-- Responsive Layout
-- JavaScript Functionality
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/-%F0%9F%A4%96-00FF88?style=for-the-badge&labelColor=0D1117" height="40"/><br/>
+      <b>Generative AI</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/-%E2%8C%A8%EF%B8%8F-7B2FFF?style=for-the-badge&labelColor=0D1117" height="40"/><br/>
+      <b>Prompt Engineering</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/-%E2%9A%99%EF%B8%8F-00C4FF?style=for-the-badge&labelColor=0D1117" height="40"/><br/>
+      <b>AI Automation</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/-%F0%9F%A7%A0-C77DFF?style=for-the-badge&labelColor=0D1117" height="40"/><br/>
+      <b>Machine Learning</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/-%F0%9F%93%8A-00FF88?style=for-the-badge&labelColor=0D1117" height="40"/><br/>
+      <b>Data Science</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/-%F0%9F%90%8D-3776AB?style=for-the-badge&labelColor=0D1117" height="40"/><br/>
+      <b>Python Applications</b>
+    </td>
+  </tr>
 </table>
 
+</div>
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+## 📈 `>GITHUB_ANALYTICS`
+
 <div align="center">
 
-<a href="https://github.com/Anichinna?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anichinna&show_icons=true&hide_border=false&theme=dark&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&border_color=00FF88&ring_color=00FF88&custom_title=CHINNANAN%20G's%20GitHub%20Stats" alt="GitHub Stats"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Anichinna&theme=dark&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&border=00FF88" alt="GitHub Streak"/>
 
 </div>
 
----
+<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
+## 🐍 `>CONTRIBUTION_ACTIVITY`
 
-<!-- CONNECT -->
+<div align="center">
 
-<h3>🌐 &gt; ESTABLISH_CONNECTION</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anichinna/Anichinna/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anichinna/Anichinna/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Anichinna/Anichinna/output/github-snake-dark.svg" />
+</picture>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anichinna&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="100%" alt="activity graph"/>
+
+</div>
+
+<!-- ===================== PROJECT ARCHIVE ===================== -->
+## 🗂️ `>PROJECT_ARCHIVE // DEPLOYED SYSTEMS`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛒 [E-commerce_website](https://github.com/Anichinna) ↗
+
+E-commerce website using HTML, CSS, Bootstrap, JavaScript, MySQL & Django.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![DJANGO](https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white)
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🧮 [Calculator](https://github.com/Anichinna) ↗
+
+A calculator web application to perform mathematical operations easily.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+  </td>
+  </tr>
+</table>
+
+<!-- ===================== CONNECTION ===================== -->
+## 🔗 `>ESTABLISH_CONNECTION`
 
 <div align="center">
 
 <a href="https://github.com/Anichinna">
-<img src="https://img.shields.io/badge/GITHUB-ANICHINNA-111111?style=for-the-badge&logo=github&logoColor=00FF88"/>
+  <img src="https://img.shields.io/badge/GITHUB-@Anichinna-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00FF88" alt="GitHub"/>
 </a>
-
-<a href="https://www.linkedin.com/in/chinnannan-govindharajan-840478230/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/chinnannan-govindharajan-840478230">
+  <img src="https://img.shields.io/badge/LINKEDIN-/chinnannan--govindharajan--840478230-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Anichinna&style=for-the-badge&color=00FF88&label=PROFILE+VISITORS"/>
 
 </div>
 
----
-
-<!-- FOOTER -->
-
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:001a16,50:003b30,100:00ff88&section=footer"/>
+<br/>
 
-### `❝ CODE IS MY LANGUAGE. ❞`
+```text
+“ CODE IS MY LANGUAGE.   ”
+“ INNOVATION IS MY MISSION. ”
+“ THE FUTURE IS MY PLAYGROUND. ”
+```
 
-### `❝ INNOVATION IS MY MISSION. ❞`
+<img src="https://img.shields.io/badge/TERMINAL_SESSION-ACTIVE_-00FF88?style=for-the-badge&logo=gnubash&logoColor=00FF88&labelColor=0D1117" alt="terminal"/>
 
-### `❝ THE FUTURE IS MY PLAYGROUND. ❞`
-
-<img src="https://img.shields.io/badge/TERMINAL_SESSION-ACTIVE-00FF88?style=for-the-badge&logo=gnometerminal&logoColor=black"/>
-
-**BUILD. AUTOMATE. INNOVATE.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:00C46A,100:00FF88&height=140&section=footer" width="100%" alt="footer"/>
 
 </div>
-
-<!-- END OF COMMAND CENTER -->
