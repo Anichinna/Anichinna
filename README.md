@@ -50,11 +50,11 @@ AI_LAB = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anichinna&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00D9FF&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF88&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anichinna&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF88&text_color=FFFFFF"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00D9FF&currStreakLabel=00FF88"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=Anichinna&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00D9FF&currStreakLabel=00FF88"/>
 
 </div>
 
@@ -62,7 +62,7 @@ AI_LAB = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Anichinna/Anichinna/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -70,7 +70,7 @@ AI_LAB = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Anichinna">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF88"/>
 </a>
 
